@@ -7,8 +7,8 @@
 
 - 👨‍💻 Most of my main projects are in my Repo tab!
 - 🎓 **Certifications:** CompTIA Tech+ 
-- 🌱 **Currently building:** A self-hosted multiplayer quiz game (Blooket-style) and an Android virtual disk emulation app.
-- ⚡ **Fun fact:** I love bridging the gap between software and hardware—whether it's building custom Raspberry Pi car dashboards, maintaining root on Android, diving into Linux/homelabbing, or compiling Klipper for 3D printers.
+- 🌱 **Currently building:** A custom Cast Receiver for <a href="https://github.com/MetrolistGroup/Metrolist">Metrolist</a> and an Android virtual disk emulation app.
+- ⚡ **Fun fact:** I love bridging the gap between software and hardware. Whether it's building custom Raspberry Pi car dashboards, maintaining root on Android, diving into Linux/homelabbing, or compiling Klipper for 3D printers.
 - 📫 You can reach me at: **Ijaz@1cy.tech**
 
 <br/>
